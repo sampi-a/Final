@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h2 {
+    text-align: left;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: inline-block;
+    width: 120px;
+  }
+  
+  input[type="submit"] {
+    margin-left: 120px;
+  }
+  
